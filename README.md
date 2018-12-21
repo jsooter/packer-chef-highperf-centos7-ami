@@ -1,4 +1,4 @@
-# High Performance CentOS 7 AMI
+# High Performance CentOS 7 AMI TEST
 
 The stock RHEL and CentOS AMIs are highly unoptimized and typically out of date.  This project aims to create a high-performance CentOS 7 image that is unencumbered of product codes or other restrictions. It now also includes a recent Linux kernel and Docker.
 
